@@ -9,7 +9,7 @@ I really like to play videogames 🎮, listen to music and sometimes hang out wi
 ![Languages](https://skillicons.dev/icons?i=js,html,css,php,java,c,cs,python)
 
 * Tools: 
-![Tools](https://skillicons.dev/icons?i=git,github,mysql)
+![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,mysql)
 
 * Frameworks: 
 ![Frameworks](https://skillicons.dev/icons?i=react,vue,next,laravel,vite)
