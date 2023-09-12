@@ -1,5 +1,6 @@
 # ✈ Summary
-I'm an computer engineer and a software developer. I'm 22 years old,
+I'm an computer engineer and a software developer 💻. I'm 22 years old, i'm really interested in web programming. One of my best qualities is my full-time programming learning, i'm always trying to read, watch and learn some stuff about all the documentation of new languages, frameworks, etc.  
+I really like to play videogames 🎮, listen to music and sometimes hang out with my friends.
 
 
 # 📜 Skills
