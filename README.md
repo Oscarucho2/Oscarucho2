@@ -30,7 +30,7 @@ I really like to play videogames 🎮, listen to music and sometimes hang out wi
     * *Amazon web services (S3)*
 
 # 🎒 Contact me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/oscaaaaaaaarr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oscaaaaaaaarr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarmartinezmx/) 
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarucho2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
